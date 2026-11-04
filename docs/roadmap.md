@@ -1,4 +1,8 @@
-# Дорожня карта Pallet Warehouse
+# Дорожня карта Свісс Кроно
+
+![Дорожня карта трьох ітерацій](roadmap.svg)
+
+[Редагована схема draw.io](roadmap.drawio) · [Зображення SVG](roadmap.svg)
 
 План після лекції 4. Детальні цілі, результати, ризики та критерії завершення наведено в [Iterations.md](../Iterations.md), задачі — у [backlog](../requirements/backlog.md).
 
